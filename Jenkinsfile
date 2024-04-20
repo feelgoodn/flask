@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Login') {
 				steps {
-				sh 'echo dimple2009 | docker login -u shasank2002 --password-stdin'
+				sh 'echo nikhilkothale17 | docker login -u nikhilkothale17 --password-stdin'
 				}
 
 		}
